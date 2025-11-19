@@ -1,10 +1,18 @@
 
-  # 刘晨希 - Designer
-  This is a code bundle for 刘晨希 - Designer. The original project is available at https://www.figma.com/design/QideUmUD7VKqkNQkeSysc1/%E5%AE%8C%E5%96%84%E4%BB%A3%E7%A0%81%E4%B8%8E%E9%93%BE%E6%8E%A5%E8%B7%B3%E8%BD%AC.
+# 刘晨希 (Chansey) – Portfolio
 
-  ## Running the code
+This repository contains the source code for my personal portfolio website.  
+It showcases my work in **Interaction Design**, **Creative Coding**, and **Spatial / Experience Design**.
 
-  Run `npm i` to install the dependencies.
+设计与排版最初在 Figma 中完成，本仓库是基于该设计手动搭建与优化的前端实现版本。
 
-  Run `npm run dev` to start the development server.
+---
+
+## 🧰 Tech Stack
+
+- **Framework:** React + TypeScript
+- **Build Tool:** Vite
+- **Styling:** CSS (custom styles)
+- **Tooling:** npm, VS Code
+
   
